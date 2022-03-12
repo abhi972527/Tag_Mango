@@ -2,7 +2,7 @@ import React from "react";
 import "./card.css"
 
 
-
+//  created a single card so that it can be used as many time according to the data available in API
 const Card = (props) => {
     return (
         <div>
