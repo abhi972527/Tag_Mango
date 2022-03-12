@@ -37,7 +37,7 @@ const Data = () => {
     return (
         <div>
             <h1 className='heading_style' >
-                Song Studio
+                Coke Studio
             </h1>
 
             {/* mapped expenses which contains my all the fetched data so that it will returns all the value as my desire in proper way */}
